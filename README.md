@@ -6,7 +6,7 @@ O sistema funciona como um Produto Mínimo Viável (MVP) focado em digitalizar o
 
 ---
 
-## 📋 Engenharia de Requisitos e Divisão de Contribuições
+## Engenharia de Requisitos e Divisão de Contribuições
 
 O projeto foi gerenciado utilizando conceitos de metodologias ágeis para garantir a entrega do MVP dentro do prazo:
 
@@ -16,7 +16,7 @@ O projeto foi gerenciado utilizando conceitos de metodologias ágeis para garant
 
 ---
 
-## 🚀 Funcionalidades do Sistema
+## Funcionalidades do Sistema
 
 O sistema conta com 5 telas principais totalmente funcionais e responsivas:
 * **Autenticação (Login):** Acesso seguro restrito para administradores do sistema.
